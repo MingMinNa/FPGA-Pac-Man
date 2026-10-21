@@ -1,4 +1,4 @@
-`include "define.v"
+`include "Define.v"
 
 // Pink Down-Right
 module Ghost2Control #(

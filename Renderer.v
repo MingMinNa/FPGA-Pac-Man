@@ -1,4 +1,4 @@
-`include "define.v"
+`include "Define.v"
 
 module Renderer(
     input toDisplay,

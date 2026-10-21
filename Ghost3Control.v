@@ -1,4 +1,4 @@
-`include "define.v"
+`include "Define.v"
 
 // Cyan Top-right
 module Ghost3Control #(

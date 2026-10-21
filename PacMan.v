@@ -1,4 +1,4 @@
-`include "define.v"
+`include "Define.v"
 
 module PacMan(
     input clk_50MHz,

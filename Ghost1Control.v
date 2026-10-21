@@ -1,4 +1,4 @@
-`include "define.v"
+`include "Define.v"
 
 // RED Down-Left
 module Ghost1Control #(
